@@ -1,1 +1,1 @@
-<img src="https://httpbin.org/headers" width="300"/>
+<img src="https://msgstr-yu-varying-organized.trycloudflare.com/" width="300"/>
